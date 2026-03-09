@@ -33,6 +33,13 @@
             <version>${selenium.version}</version>
         </dependency>
 
+        <!-- Selenium Support (Actions API) -->
+        <dependency>
+            <groupId>org.seleniumhq.selenium</groupId>
+            <artifactId>selenium-support</artifactId>
+            <version>${selenium.version}</version>
+        </dependency>
+
         <!-- WebDriverManager -->
         <dependency>
             <groupId>io.github.bonigarcia</groupId>
